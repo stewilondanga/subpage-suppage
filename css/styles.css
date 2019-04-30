@@ -33,21 +33,22 @@ html {
   width: 500px;
 }
 
-/*
 .contain {
   border-radius: 3px;
   box-shadow: 0 0 11px #e5e5e5;
+
   margin: {
     left: auto;
     right: auto;
     top: 5em;
   }
+
   padding: 3em;
   text-align: center;
   width: 329px;
 }
 
-
+/*
 .formula {
   color: #000232;
   font-size: 1.5em;
