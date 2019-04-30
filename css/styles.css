@@ -21,9 +21,6 @@ html {
   height: 1.5em;
 }
 
-/*
-
-
 .container {
   margin: {
     left: auto;
@@ -31,11 +28,12 @@ html {
     top: 5em;
     bottom: 3em;
   }
+
   text-align: center;
   width: 500px;
 }
 
-
+/*
 .contain {
   border-radius: 3px;
   box-shadow: 0 0 11px #e5e5e5;
