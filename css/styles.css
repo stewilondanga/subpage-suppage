@@ -1,4 +1,4 @@
-body {
+/*body {
   text-align: center;
   font-family: courier;
   background-image: url("../assets/image.jpeg");
@@ -19,6 +19,52 @@ body {
 
 .my_social a img {
   height: 1.5em;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Inconsolata|Roboto');
+
+
+html {
+  font: {
+    family: "Inconsolata", sans-serif;
+  }
+}
+
+.container {
+  margin: {
+    left: auto;
+    right: auto;
+    top: 5em;
+    bottom: 3em;
+  }
+  text-align: center;
+  width: 500px;
+}
+
+
+.contain {
+  border-radius: 3px;
+  box-shadow: 0 0 11px #e5e5e5;
+  margin: {
+    left: auto;
+    right: auto;
+    top: 5em;
+  }
+  padding: 3em;
+  text-align: center;
+  width: 329px;
+}
+
+
+.formula {
+  color: #000232;
+  font-size: 1.5em;
+  margin-top: 15px;
+}
+
+sub {
+  color: #5380fb;
+  font-size: .65em;
 }
 
 .containers {
